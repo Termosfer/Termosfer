@@ -39,7 +39,7 @@ That's why I don't just consume APIs—I architect them. My project **Fregence**
 ---
 
 ### 📫 Let's Connect
-- 💼 **LinkedIn:** [linkedin.com/in/sizin-usernaminiz](https://www.linkedin.com/in/toghrul-aghayev-395943193/)
+- 💼 **LinkedIn:** [linkedin.com/in/toghrul-aghayev-395943193/](linkedin.com/in/toghrul-aghayev-395943193/)
 - 📧 **Email:** toghrulaga@gmail.com
 - 🌍 **Portfolio:** [miparfume.netlify.app](https://miparfume.netlify.app/), [mtbcorporate.az](mtbcorporate.az), [bgc.az](bgc.az), [dsa.az/](dsa.az/),[procraft.az/](procraft.az/)
 
