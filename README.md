@@ -1,35 +1,36 @@
 # Hi there, I'm Toghrul! 👋 
-### Full Stack Developer | Spring Boot & React Specialist
 
-I am a passionate Full Stack Developer focused on building high-performance, secure, and luxury digital experiences. My expertise lies in architecting robust backend systems and crafting seamless, modern user interfaces.
+### **Frontend Developer | Specialist in React & TypeScript | Spring Boot Enthusiast**
+
+I am a results-driven **Frontend Developer** dedicated to crafting pixel-perfect, high-performance, and luxury digital experiences. I believe that to build an exceptional Frontend, one must deeply understand the "engine" that powers it. 
+
+That's why I don't just consume APIs—I architect them. My project **Fregence** is a testament to this philosophy, featuring a custom-built, enterprise-grade Spring Boot ecosystem.
 
 ---
 
-### 🛠 My Tech Stack
+### 🛠 My Core Expertise
 
-<div align="left">
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/spring_boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
-</div>
+| **Frontend & UI/UX** | **State & Data Management** | **Backend & Infrastructure** |
+| :--- | :--- | :--- |
+| ⚛️ **React 18**, TypeScript, Vite | 🛠 **Redux Toolkit**, Zustand | ☕ **Java 17**, Spring Boot 3.4 |
+| 🎨 **Tailwind CSS**, Framer Motion | 🌐 **TanStack Query**, Axios | 🔐 **Spring Security** & JWT |
+| 💎 **Material UI**, Bootstrap 5 | ⚡ **Context API**, Hooks | 🐘 **PostgreSQL** (Neon), Redis |
+| 💅 **Sass/SCSS**, CSS Modules | 📋 **React Hook Form**, Zod | 🐳 **Docker**, Maven, Git |
+| 📱 Responsive Web Design | 🔄 RESTful API Integration | ☁️ Render, Netlify, Vercel |
 
 ---
 
 ### 🌟 Featured Project: Fregence Perfume Shop
-**Fregence** is an enterprise-level e-commerce ecosystem designed for high-end perfume boutiques.
+**Fregence** is a full-stack showcase of my engineering skills. It’s a premium e-commerce platform where minimalist design meets robust backend logic.
 
-- **Backend:** Spring Boot, JWT, Redis Caching, PostgreSQL, Cloudinary, Bucket4j Rate Limiting.
-- **Frontend:** React, TypeScript, Vite, TanStack Query, Framer Motion.
-- **Status:** 🚀 [Live Demo](https://miparfume.netlify.app/) | [Backend Code](https://github.com/Termosfer/fregence-backend)
+- **Frontend Focus:** 100% Type-safe code, Optimistic UI updates, Smart Polling for order tracking, and fluid 3D animations.
+- **Backend Power:** JWT authentication, Redis-backed caching for sub-millisecond responses, and automated cloud storage integration.
+- **Links:** 🚀 [Live Demo](https://miparfume.netlify.app/) | 🏗️ [Backend Source](https://github.com/Termosfer/fregence-backend) | 🎨 [Frontend Source](https://github.com/Termosfer/fregence-frontend)
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Statistics
+
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Termosfer&show_icons=true&theme=transparent&hide_border=true&title_color=81d8d0&icon_color=81d8d0&text_color=ffffff" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Termosfer&layout=compact&theme=transparent&hide_border=true&title_color=81d8d0&text_color=ffffff" />
@@ -38,10 +39,11 @@ I am a passionate Full Stack Developer focused on building high-performance, sec
 ---
 
 ### 📫 Let's Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/toghrul-aghayev-395943193/)
-- 📧 Email: toghrulaga@gmail.com 
-- 🌍 Website: [miparfume.netlify.app](https://miparfume.netlify.app/)
+- 💼 **LinkedIn:** [linkedin.com/in/sizin-usernaminiz](https://www.linkedin.com/in/toghrul-aghayev-395943193/)
+- 📧 **Email:** toghrulaga@gmail.com
+- 🌍 **Portfolio:** [miparfume.netlify.app](https://miparfume.netlify.app/), [mtbcorporate.az](mtbcorporate.az), [bgc.az](bgc.az), [dsa.az/](dsa.az/),[procraft.az/](procraft.az/)
 
 <p align="center">
+  <br />
   <i>"Code is like a fragrance; it should be clean, memorable, and leave a lasting impression."</i>
 </p>
