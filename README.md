@@ -1,4 +1,4 @@
-# Hi there, I'm Toghrul! 👋 
+# Hi there, I'm Toghrul!
 
 ### **Frontend Developer | Specialist in React & TypeScript | Spring Boot Enthusiast**
 
@@ -39,9 +39,9 @@ That's why I don't just consume APIs—I architect them. My project **Fregence**
 ---
 
 ### 📫 Let's Connect
-- 💼 **LinkedIn:** [linkedin.com/in/toghrul-aghayev-395943193/](linkedin.com/in/toghrul-aghayev-395943193/)
+- 💼 **LinkedIn:** [linkedin.com/in/toghrul-aghayev-395943193/](https://linkedin.com/in/toghrul-aghayev/)
 - 📧 **Email:** toghrulaga@gmail.com
-- 🌍 **Portfolio:** [miparfume.netlify.app](https://miparfume.netlify.app/), [mtbcorporate.az](mtbcorporate.az), [bgc.az](bgc.az), [dsa.az/](dsa.az/),[procraft.az/](procraft.az/)
+- 🌍 **Portfolio:** [miparfume.netlify.app](https://miparfume.netlify.app/), [mtbcorporate.az](https://mtbcorporate.az), [bgc.az](https://bgc.az), [dsa.az](https://dsa.az/), [procraft.az](https://procraft.az/), [hhtech.az](https://hhtech.az/)
 
 <p align="center">
   <br />
